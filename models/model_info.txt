@@ -1,0 +1,24 @@
+======================================================================
+FACE RECOGNITION MODEL INFORMATION
+======================================================================
+
+Created: 2025-11-14 19:02:47
+Model Type: Random Forest Classifier
+Number of Trees: 150
+Max Depth: 25
+
+Dataset:
+  • Total images: 51
+  • Feature vector size: 26347
+  • Training samples: 40
+  • Test samples: 11
+
+People recognized:
+  1. Fidele
+  2. Irais
+  3. Kerie
+
+Performance:
+  • Training Accuracy: 1.0000 (100.00%)
+  • Test Accuracy: 1.0000 (100.00%)
+  • F1-Score: 1.0000
