@@ -1,0 +1,6 @@
+Metric,Value
+Training Accuracy,100.00%
+Testing Accuracy,86.67%
+F1-Score,0.8500
+Features Used,43
+Classes,6
