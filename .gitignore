@@ -3,7 +3,6 @@
 venv/
 
 # IDE and cache files
-.vscode/
 __pycache__/
 
 # Machine Learning Models and Outputs
@@ -12,3 +11,7 @@ __pycache__/
 *.joblib
 /models/
 /voice_models/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
