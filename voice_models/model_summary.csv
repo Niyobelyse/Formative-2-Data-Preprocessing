@@ -1,8 +1,8 @@
 Metric,Value
 Training Accuracy,100.00%
 Testing Accuracy,100.00%
-Cross-Val Accuracy,95.56%
+Cross-Val Accuracy,73.81%
 F1-Score,1.0000
-Log Loss,0.0117
+Log Loss,0.0784
 Overfitting Gap,0.00%
-Target Status,ACHIEVED ✅
+Target Status,ACHIEVED     
